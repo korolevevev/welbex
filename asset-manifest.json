@@ -1,15 +1,23 @@
 {
   "files": {
-    "main.css": "/welbex/static/css/main.75d542d4.css",
-    "main.js": "/welbex/static/js/main.830dccb8.js",
+    "main.css": "/welbex/static/css/main.be875ccf.css",
+    "main.js": "/welbex/static/js/main.bb61ee24.js",
     "static/js/787.08f9b020.chunk.js": "/welbex/static/js/787.08f9b020.chunk.js",
+    "static/media/red_light.png": "/welbex/static/media/red_light.d4f11f6fa291d68f3457.png",
+    "static/media/purple_light.png": "/welbex/static/media/purple_light.0277076f6edd210a7938.png",
+    "static/media/logo_welbex.svg": "/welbex/static/media/logo_welbex.2e08d1bd108cb8b2aee116b1817d851e.svg",
+    "static/media/wapp.svg": "/welbex/static/media/wapp.c3d7a933a8355b23bc435ff74d3849c1.svg",
+    "static/media/phone.svg": "/welbex/static/media/phone.cf9c56ecdadaadbb83004223aedc739c.svg",
+    "static/media/purple_ball.svg": "/welbex/static/media/purple_ball.5183c75bdfdc477e9148312d22bdcf94.svg",
+    "static/media/red_ball.svg": "/welbex/static/media/red_ball.d0944b6e50e80d4994d492177a6b660c.svg",
     "index.html": "/welbex/index.html",
-    "main.75d542d4.css.map": "/welbex/static/css/main.75d542d4.css.map",
-    "main.830dccb8.js.map": "/welbex/static/js/main.830dccb8.js.map",
+    "static/media/telegram.svg": "/welbex/static/media/telegram.40ecd015eebebbe71b5bd0354d54208e.svg",
+    "main.be875ccf.css.map": "/welbex/static/css/main.be875ccf.css.map",
+    "main.bb61ee24.js.map": "/welbex/static/js/main.bb61ee24.js.map",
     "787.08f9b020.chunk.js.map": "/welbex/static/js/787.08f9b020.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.75d542d4.css",
-    "static/js/main.830dccb8.js"
+    "static/css/main.be875ccf.css",
+    "static/js/main.bb61ee24.js"
   ]
 }
